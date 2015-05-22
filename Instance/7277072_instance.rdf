@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:relators="http://id.loc.gov/vocabulary/relators/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<bf:Instance rdf:about="http://vufind.carli.illinois.edu/vf-uiu/Record/uiu_7277072/Description"><bf:relatedTo rdf:resource="http://www.library.uiuc.edu/proxy/go.php?url=http://www.crcnetbase.com/doi/book/10.1201/b15039"/><bf:title>Second harmonic generation imaging</bf:title><rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/><rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/><bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>Taylor &amp; Francis</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Boca Raton </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:copyrightDate>c 2014.</bf:copyrightDate>
+      </bf:Provider>
+    </bf:publication><bf:modeOfIssuance>single unit</bf:modeOfIssuance><bf:titleStatement>Second harmonic generation imaging</bf:titleStatement><bf:formDesignation>electronic resource</bf:formDesignation><bf:providerStatement>Boca Raton : Taylor &amp; Francis, c 2014.</bf:providerStatement><bf:note>&quot;Second harmonic generation serves as the basis for a microscope imaging contrast mechanism that visualizes cell and tissue structure and function. This book provides a complete overview of the principles underlying this technique and its current applications, including use in molecular sensing. Covering practical issues related to instrumentation, the text examines which kinds of external labels to use. It also gives detailed reviews of the use of second harmonic generation in biomedical research, from imaging of cancer and skin disorders to self-assembled gels, holographic SHG imaging, and tissue engineering applications&quot;--Provided by publisher.</bf:note><bf:note>Description based on print version record.</bf:note><bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/851656512"/><bf:instanceOf rdf:resource="http://worldcat.org/entity/work/id/1236947515"/> <bf:isbn>                                    <bf:Identifier>                                        <bf:identifierValue>9781439849156</bf:identifierValue>                                        <bf:identifierScheme>isbn</bf:identifierScheme>                                    </bf:Identifier>                                </bf:isbn><bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/></bf:Instance></rdf:RDF>

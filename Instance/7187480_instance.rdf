@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:relators="http://id.loc.gov/vocabulary/relators/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<bf:Instance rdf:about="http://vufind.carli.illinois.edu/vf-uiu/Record/uiu_7187480/Description"><bf:relatedTo rdf:resource="http://www.library.uiuc.edu/proxy/go.php?url=http://www.oxfordreference.com/view/10.1093/acref/9780199738878.001.0001/acref-9780199738878"/><bf:title>The Oxford companion to international relations</bf:title><rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/><rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/><bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>Oxford University Press</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>New York </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:providerDate>[2014]</bf:providerDate>
+      </bf:Provider>
+    </bf:publication><bf:modeOfIssuance>single unit</bf:modeOfIssuance><bf:titleStatement>The Oxford companion to international relations</bf:titleStatement><bf:providerStatement>New York : Oxford University Press, 2014</bf:providerStatement><bf:note>International relations has long been a core discipline within political science, one of vast importance for understanding social, cultural, economic and political exchanges across national boundaries. Every dimension of human experience falls within the scope of the field, making it applicable to psychologists, historians, anthropologists, and others across a wide swath of academia. The entires in this volume are mostly thematic in content, rather than site-specific, permitting the work to have value and currency for years to come.</bf:note><bf:note>Description based on print version of record.</bf:note><bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/884578260"/><bf:mediaCategory rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/c"/><bf:carrierCategory rdf:resource="http://id.loc.gov/vocabulary/carriers/cr"/><bf:instanceOf rdf:resource="http://worldcat.org/entity/work/id/"/> <bf:isbn>                                    <bf:Identifier>                                        <bf:identifierValue>9780199739202</bf:identifierValue>                                        <bf:identifierScheme>isbn</bf:identifierScheme>                                    </bf:Identifier>                                </bf:isbn><bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/rda"/><bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/isbd"/></bf:Instance></rdf:RDF>

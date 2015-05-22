@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://bibframe.org/vocab/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">
+  <bf:Work rdf:about="http://www.base-uri.com/7265190">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+    <bf:authorizedAccessPoint>Iacobucci, Maria Stella M. Reconfigurable radio systemsnetwork architectures and standards</bf:authorizedAccessPoint>
+    <bf:workTitle rdf:resource="http://www.base-uri.com/7265190title5"/>
+    <bf:creator rdf:resource="http://www.base-uri.com/7265190person6"/>
+    <bf:contentCategory rdf:resource="http://id.loc.gov/vocabulary/contentTypes/txt"/>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7265190topic9"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7265190topic10"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7265190topic11"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7265190topic12"/>
+    <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/TK5103.4875"/>
+    <bf:classification rdf:resource="http://www.base-uri.com/7265190classification14"/>
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7265190.marcxml.xml"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">iacobuccimariastellamreconfigurableradiosystemsnetworkarchitecturesandstandardsengworktext</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Instance rdf:about="http://www.base-uri.com/7265190instance18">
+    <bf:title>Reconfigurable radio systemsnetwork architectures and standards (electronic bk.)</bf:title>
+    <bf:isbn10 rdf:resource="http://isbn.example.org/1118398408"/>
+    <bf:isbn13 rdf:resource="http://isbn.example.org/9781118398401"/>
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/>
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+    <bf:instanceTitle rdf:resource="http://www.base-uri.com/7265190title25"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>John Wiley &amp; Sons, Inc</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Chichester, West Sussex, United Kingdom </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:providerDate>2014</bf:providerDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+    <bf:otherPhysicalFormat rdf:resource="http://www.base-uri.com/7265190instance28"/>
+    <bf:titleStatement>Reconfigurable radio systems network architectures and standards</bf:titleStatement>
+    <bf:formDesignation>electronic resource :</bf:formDesignation>
+    <bf:providerStatement>Chichester, West Sussex, United Kingdom : John Wiley &amp; Sons, Inc., 2014.</bf:providerStatement>
+    <bf:note>Description based on print version record.</bf:note>
+    <bf:supplementaryContentNote>Includes bibliographical references and index.</bf:supplementaryContentNote>
+    <bf:lccn>
+      <bf:Identifier>
+        <bf:identifierValue>2013015370</bf:identifierValue>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/lccn"/>
+      </bf:Identifier>
+    </bf:lccn>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/840939140"/>
+    <bf:mediaCategory rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/c"/>
+    <bf:carrierCategory rdf:resource="http://id.loc.gov/vocabulary/carriers/cr"/>
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7265190.marcxml.xml"/>
+    <bf:instanceOf rdf:resource="http://www.base-uri.com/7265190"/>
+  </bf:Instance>
+  <bf:Instance rdf:about="http://www.base-uri.com/7265190instance28">
+    <bf:title>Reconfigurable radio systems</bf:title>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>2013004409</bf:identifierValue>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/lccn"/>
+      </bf:Identifier>
+    </bf:systemNumber>
+    <bf:isbn>
+      <bf:Identifier>
+        <bf:identifierValue>9781119969303</bf:identifierValue>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/isbn"/>
+      </bf:Identifier>
+    </bf:isbn>
+  </bf:Instance>
+  <bf:Instance rdf:about="http://www.base-uri.com/7265190instance19">
+    <bf:title>Reconfigurable radio systemsnetwork architectures and standards (electronic bk.)</bf:title>
+    <bf:isbn10 rdf:resource="http://isbn.example.org/1118398386"/>
+    <bf:isbn13 rdf:resource="http://isbn.example.org/9781118398388"/>
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/>
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+    <bf:instanceTitle rdf:resource="http://www.base-uri.com/7265190title26"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>John Wiley &amp; Sons, Inc</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Chichester, West Sussex, United Kingdom </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:providerDate>2014</bf:providerDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+    <bf:otherPhysicalFormat rdf:resource="http://www.base-uri.com/7265190instance29"/>
+    <bf:titleStatement>Reconfigurable radio systems network architectures and standards</bf:titleStatement>
+    <bf:formDesignation>electronic resource :</bf:formDesignation>
+    <bf:providerStatement>Chichester, West Sussex, United Kingdom : John Wiley &amp; Sons, Inc., 2014.</bf:providerStatement>
+    <bf:note>Description based on print version record.</bf:note>
+    <bf:supplementaryContentNote>Includes bibliographical references and index.</bf:supplementaryContentNote>
+    <bf:lccn>
+      <bf:Identifier>
+        <bf:identifierValue>2013015370</bf:identifierValue>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/lccn"/>
+      </bf:Identifier>
+    </bf:lccn>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/840939140"/>
+    <bf:mediaCategory rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/c"/>
+    <bf:carrierCategory rdf:resource="http://id.loc.gov/vocabulary/carriers/cr"/>
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7265190.marcxml.xml"/>
+    <bf:instanceOf rdf:resource="http://www.base-uri.com/7265190"/>
+  </bf:Instance>
+  <bf:Instance rdf:about="http://www.base-uri.com/7265190instance29">
+    <bf:title>Reconfigurable radio systems</bf:title>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>2013004409</bf:identifierValue>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/lccn"/>
+      </bf:Identifier>
+    </bf:systemNumber>
+    <bf:isbn>
+      <bf:Identifier>
+        <bf:identifierValue>9781119969303</bf:identifierValue>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/isbn"/>
+      </bf:Identifier>
+    </bf:isbn>
+  </bf:Instance>
+  <bf:Instance rdf:about="http://www.base-uri.com/7265190instance20">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/>
+    <bf:label>Wiley Online Library - Full text</bf:label>
+    <bf:uri rdf:resource="http://www.library.uiuc.edu/proxy/go.php?url=http://onlinelibrary.wiley.com/book/10.1002/9781118398401"/>
+    <bf:instanceOf rdf:resource="http://www.base-uri.com/7265190"/>
+  </bf:Instance>
+  <bf:Annotation rdf:about="http://www.base-uri.com/7265190annotation17">
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7265190.marcxml.xml"/>
+    <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclco"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/n$t"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcq"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/dg1"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/uiu"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/rda"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/pn"/>
+    <bf:descriptionLanguage rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/isbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-03-16-T11:00:00</bf:generationProcess>
+    <bf:changeDate>2013-10-21T17:12</bf:changeDate>
+    <bf:annotates rdf:resource="http://www.base-uri.com/7265190"/>
+  </bf:Annotation>
+  <bf:Title rdf:about="http://www.base-uri.com/7265190title5">
+    <bf:titleValue>Reconfigurable radio systems</bf:titleValue>
+    <bf:subtitle>network architectures and standards </bf:subtitle>
+  </bf:Title>
+  <bf:Person rdf:about="http://www.base-uri.com/7265190person6">
+    <bf:label>Iacobucci, Maria Stella M.</bf:label>
+    <bf:authorizedAccessPoint>Iacobucci, Maria Stella M.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Iacobucci, Maria Stella M.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Topic rdf:about="http://www.base-uri.com/7265190topic9">
+    <bf:authorizedAccessPoint>Software radio</bf:authorizedAccessPoint>
+    <bf:label>Software radio</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Software radio</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7265190topic10">
+    <bf:authorizedAccessPoint>Radio resource management (Wireless communications)</bf:authorizedAccessPoint>
+    <bf:label>Radio resource management (Wireless communications)</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Radio resource management (Wireless communications)</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7265190topic11">
+    <bf:authorizedAccessPoint>Adaptive signal processing</bf:authorizedAccessPoint>
+    <bf:label>Adaptive signal processing</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Adaptive signal processing</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7265190topic12">
+    <bf:authorizedAccessPoint>Electronic books</bf:authorizedAccessPoint>
+    <bf:label>Electronic books</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel>Electronic books</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Classification rdf:about="http://www.base-uri.com/7265190classification14">
+    <bf:classificationScheme rdf:resource="http://id.loc.gov/authorities/classSchemes/ddc"/>
+    <bf:classificationNumber>621.384</bf:classificationNumber>
+    <bf:label>621.384</bf:label>
+    <bf:classificationEdition>full</bf:classificationEdition>
+    <bf:classificationEdition>23</bf:classificationEdition>
+  </bf:Classification>
+  <bf:Title rdf:about="http://www.base-uri.com/7265190title25">
+    <bf:titleValue>Reconfigurable radio systems</bf:titleValue>
+    <bf:subtitle>network architectures and standards </bf:subtitle>
+  </bf:Title>
+  <bf:Title rdf:about="http://www.base-uri.com/7265190title26">
+    <bf:titleValue>Reconfigurable radio systems</bf:titleValue>
+    <bf:subtitle>network architectures and standards </bf:subtitle>
+  </bf:Title>
+</rdf:RDF>

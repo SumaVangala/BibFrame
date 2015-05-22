@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:relators="http://id.loc.gov/vocabulary/relators/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<bf:Annotation rdf:resource="http://www.library.uiuc.edu/proxy/go.php?url=http://www.crcnetbase.com/isbn/9781482202090" ><bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/><bf:annotates rdf:resource="http://worldcat.org/entity/work/id/102838786"/><bf:label>Accessible anywhere on campus or with UIUC NetID</bf:label>
+<bf:HeldItem>            <bf:holdingFor rdf:resource="http://vufind.carli.illinois.edu/vf-uiu/Record/uiu_7277073/Description"/>            <bf:heldBy rdf:resource="http://id.loc.gov/vocabulary/organizations/iu"/>            </bf:HeldItem></bf:Annotation>
+</rdf:RDF>

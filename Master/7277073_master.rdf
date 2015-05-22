@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://bibframe.org/vocab/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">
+  <bf:Work rdf:about="http://www.base-uri.com/7277073">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+    <bf:authorizedAccessPoint>Levin, Ginger. PgMPª exam challenge!</bf:authorizedAccessPoint>
+    <bf:workTitle rdf:resource="http://www.base-uri.com/7277073title5"/>
+    <bf:creator rdf:resource="http://www.base-uri.com/7277073person6"/>
+    <bf:contributor rdf:resource="http://www.base-uri.com/7277073person7"/>
+    <bf:contributor rdf:resource="http://www.base-uri.com/7277073organization8"/>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7277073topic10"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7277073topic11"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7277073topic12"/>
+    <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/HD69.P75"/>
+    <bf:classification rdf:resource="http://www.base-uri.com/7277073classification14"/>
+    <bf:series rdf:resource="http://www.base-uri.com/7277073work15"/>
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7277073.marcxml.xml"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">levingingerwardjleroycrcnetbaseonlineservicepgmpªexamchallengeengworktext</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work rdf:about="http://www.base-uri.com/7277073work15">
+    <bf:title>Auerbach book</bf:title>
+    <bf:authorizedAccessPoint>Auerbach book</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Instance rdf:about="http://www.base-uri.com/7277073instance19">
+    <bf:title>PgMPª exam challenge! (electronic bk.)</bf:title>
+    <bf:isbn10 rdf:resource="http://isbn.example.org/1482202093"/>
+    <bf:isbn13 rdf:resource="http://isbn.example.org/9781482202090"/>
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/>
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+    <bf:instanceTitle rdf:resource="http://www.base-uri.com/7277073title26"/>
+    <bf:titleVariation rdf:resource="http://www.base-uri.com/7277073title27"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>CRC Press</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Boca Raton, Fla. </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:copyrightDate>c2014.</bf:copyrightDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:soundContent>Unknown</bf:soundContent>
+    <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+    <bf:otherPhysicalFormat rdf:resource="http://www.base-uri.com/7277073instance31"/>
+    <bf:titleStatement>PgMPª exam challenge!</bf:titleStatement>
+    <bf:formDesignation>electronic resource</bf:formDesignation>
+    <bf:providerStatement>Boca Raton, Fla. : CRC Press, c2014.</bf:providerStatement>
+    <bf:note>Description based on print version record.</bf:note>
+    <bf:supplementaryContentNote>Includes bibliographical references and index.</bf:supplementaryContentNote>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/851523248"/>
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7277073.marcxml.xml"/>
+    <bf:instanceOf rdf:resource="http://www.base-uri.com/7277073"/>
+  </bf:Instance>
+  <bf:Instance rdf:about="http://www.base-uri.com/7277073instance31">
+    <bf:title>PgMP exam challenge!</bf:title>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/850907383"/>
+  </bf:Instance>
+  <bf:Instance rdf:about="http://www.base-uri.com/7277073instance20">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/>
+    <bf:label>CRCnetBASE - Full text online</bf:label>
+    <bf:doi rdf:resource="http://www.library.uiuc.edu/proxy/go.php?url=http://www.crcnetbase.com/doi/book/10.1201/b15012"/>
+    <bf:instanceOf rdf:resource="http://www.base-uri.com/7277073"/>
+  </bf:Instance>
+  <bf:Annotation rdf:about="http://www.base-uri.com/7277073annotation18">
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7277073.marcxml.xml"/>
+    <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/n$t"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/uiu"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/>
+    <bf:generationProcess>DLC transform-tool:2015-03-16-T11:00:00</bf:generationProcess>
+    <bf:changeDate>2013-07-10T14:36</bf:changeDate>
+    <bf:annotates rdf:resource="http://www.base-uri.com/7277073"/>
+  </bf:Annotation>
+  <bf:HeldItem rdf:about="http://www.base-uri.com/7277073helditem40">
+    <bf:label>HD69.P75 L4835 2013eb</bf:label>
+    <bf:shelfMarkLcc>HD69.P75 L4835 2013eb</bf:shelfMarkLcc>
+    <bf:holdingFor rdf:resource="http://www.base-uri.com/7277073instance19"/>
+  </bf:HeldItem>
+  <bf:Title rdf:about="http://www.base-uri.com/7277073title5">
+    <bf:titleValue>PgMPª exam challenge!</bf:titleValue>
+  </bf:Title>
+  <bf:Person rdf:about="http://www.base-uri.com/7277073person6">
+    <bf:label>Levin, Ginger.</bf:label>
+    <bf:authorizedAccessPoint>Levin, Ginger.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Levin, Ginger.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://www.base-uri.com/7277073person7">
+    <bf:label>Ward, J. LeRoy.</bf:label>
+    <bf:authorizedAccessPoint>Ward, J. LeRoy.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Ward, J. LeRoy.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Organization rdf:about="http://www.base-uri.com/7277073organization8">
+    <bf:label>CRCnetBASE (Online service)</bf:label>
+    <bf:authorizedAccessPoint>CRCnetBASE (Online service)</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>CRCnetBASE (Online service)</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Organization>
+  <bf:Topic rdf:about="http://www.base-uri.com/7277073topic10">
+    <bf:authorizedAccessPoint>Project management--Examinations, questions, etc</bf:authorizedAccessPoint>
+    <bf:label>Project management--Examinations, questions, etc</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <madsrdf:authoritativeLabel>Project management--Examinations, questions, etc</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7277073topic11">
+    <bf:authorizedAccessPoint>Project management--Examinations--Study guides</bf:authorizedAccessPoint>
+    <bf:label>Project management--Examinations--Study guides</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <madsrdf:authoritativeLabel>Project management--Examinations--Study guides</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7277073topic12">
+    <bf:authorizedAccessPoint>Electronic books</bf:authorizedAccessPoint>
+    <bf:label>Electronic books</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel>Electronic books</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Classification rdf:about="http://www.base-uri.com/7277073classification14">
+    <bf:classificationScheme rdf:resource="http://id.loc.gov/authorities/classSchemes/ddc"/>
+    <bf:classificationNumber>658.4/04076</bf:classificationNumber>
+    <bf:label>658.4/04076</bf:label>
+    <bf:classificationEdition>full</bf:classificationEdition>
+    <bf:classificationEdition>23</bf:classificationEdition>
+  </bf:Classification>
+  <bf:Title rdf:about="http://www.base-uri.com/7277073title26">
+    <bf:titleValue>PgMPª exam challenge!</bf:titleValue>
+  </bf:Title>
+  <bf:Title rdf:about="http://www.base-uri.com/7277073title27">
+    <bf:titleValue>PgMP exam challenge!</bf:titleValue>
+  </bf:Title>
+</rdf:RDF>

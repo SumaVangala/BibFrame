@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://bibframe.org/vocab/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">
+  <bf:Work rdf:about="http://www.base-uri.com/7187480">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+    <bf:authorizedAccessPoint>Krieger, Joèel The Oxford companion to international relations</bf:authorizedAccessPoint>
+    <bf:workTitle rdf:resource="http://www.base-uri.com/7187480title5"/>
+    <bf:title xml:lang="x-bf-sort">Oxford companion to international relations</bf:title>
+    <relators:edt rdf:resource="http://www.base-uri.com/7187480person7"/>
+    <bf:contentCategory rdf:resource="http://id.loc.gov/vocabulary/contentTypes/txt"/>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:intendedAudience rdf:resource="http://id.loc.gov/vocabulary/targetAudiences/pre"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7187480topic12"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7187480topic13"/>
+    <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/JZ1242"/>
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7187480.marcxml.xml"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">kriegerjoèeloxfordcompaniontointernationalrelationsengworktext</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Instance rdf:about="http://www.base-uri.com/7187480instance18">
+    <bf:title>The Oxford companion to international relations (ebook)</bf:title>
+    <bf:title xml:lang="x-bf-sort">Oxford companion to international relations (ebook)</bf:title>
+    <bf:isbn10 rdf:resource="http://isbn.example.org/019973920X"/>
+    <bf:isbn13 rdf:resource="http://isbn.example.org/9780199739202"/>
+    <bf:format>electronic resource</bf:format>
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/>
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+    <bf:instanceTitle rdf:resource="http://www.base-uri.com/7187480title27"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>Oxford University Press</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>New York </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:providerDate>[2014]</bf:providerDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+    <bf:otherPhysicalFormat rdf:resource="http://www.base-uri.com/7187480instance30"/>
+    <bf:titleStatement>The Oxford companion to international relations</bf:titleStatement>
+    <bf:providerStatement>New York : Oxford University Press, 2014</bf:providerStatement>
+    <bf:note>International relations has long been a core discipline within political science, one of vast importance for understanding social, cultural, economic and political exchanges across national boundaries. Every dimension of human experience falls within the scope of the field, making it applicable to psychologists, historians, anthropologists, and others across a wide swath of academia. The entires in this volume are mostly thematic in content, rather than site-specific, permitting the work to have value and currency for years to come.</bf:note>
+    <bf:note>Description based on print version of record.</bf:note>
+    <bf:supplementaryContentNote>Includes bibliographical references and index.</bf:supplementaryContentNote>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/884578260"/>
+    <bf:mediaCategory rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/c"/>
+    <bf:carrierCategory rdf:resource="http://id.loc.gov/vocabulary/carriers/cr"/>
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7187480.marcxml.xml"/>
+    <bf:instanceOf rdf:resource="http://www.base-uri.com/7187480"/>
+  </bf:Instance>
+  <bf:Instance rdf:about="http://www.base-uri.com/7187480instance30">
+    <bf:title/>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>2013033087</bf:identifierValue>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/lccn"/>
+      </bf:Identifier>
+    </bf:systemNumber>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/856861307"/>
+    <bf:isbn>
+      <bf:Identifier>
+        <bf:identifierValue>9780199738878</bf:identifierValue>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/isbn"/>
+      </bf:Identifier>
+    </bf:isbn>
+  </bf:Instance>
+  <bf:Instance rdf:about="http://www.base-uri.com/7187480instance19">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/>
+    <bf:label>Oxford Reference - Full text online</bf:label>
+    <bf:uri rdf:resource="http://www.library.uiuc.edu/proxy/go.php?url=http://www.oxfordreference.com/view/10.1093/acref/9780199738878.001.0001/acref-9780199738878"/>
+    <bf:instanceOf rdf:resource="http://www.base-uri.com/7187480"/>
+  </bf:Instance>
+  <bf:Annotation rdf:about="http://www.base-uri.com/7187480annotation17">
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7187480.marcxml.xml"/>
+    <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/shh"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/uiu"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/rda"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/isbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-03-16-T11:00:00</bf:generationProcess>
+    <bf:changeDate>2014-08-20T13:04</bf:changeDate>
+    <bf:annotates rdf:resource="http://www.base-uri.com/7187480"/>
+  </bf:Annotation>
+  <bf:HeldItem rdf:about="http://www.base-uri.com/7187480helditem41">
+    <bf:label>JZ1242 .O92 2014eb</bf:label>
+    <bf:shelfMarkLcc>JZ1242 .O92 2014eb</bf:shelfMarkLcc>
+    <bf:holdingFor rdf:resource="http://www.base-uri.com/7187480instance18"/>
+  </bf:HeldItem>
+  <bf:Summary rdf:about="http://www.base-uri.com/7187480summary10">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Summary"/>
+    <bf:label>Summary</bf:label>
+    <bf:annotationAssertedBy rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+    <bf:annotationBody>International relations has long been a core discipline within political science, one of vast importance for understanding social, cultural, economic and political exchanges across national boundaries. Every dimension of human experience falls within the scope of the field, making it applicable to psychologists, historians, anthropologists, and others across a wide swath of academia. The entires in this volume are mostly thematic in content, rather than site-specific, permitting the work to have value and currency for years to come.</bf:annotationBody>
+    <bf:summaryOf rdf:resource="http://www.base-uri.com/7187480"/>
+  </bf:Summary>
+  <bf:Title rdf:about="http://www.base-uri.com/7187480title5">
+    <bf:titleValue>The Oxford companion to international relations</bf:titleValue>
+  </bf:Title>
+  <bf:Person rdf:about="http://www.base-uri.com/7187480person7">
+    <bf:label>Krieger, Joèel</bf:label>
+    <bf:authorizedAccessPoint>Krieger, Joèel</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Krieger, Joèel</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Topic rdf:about="http://www.base-uri.com/7187480topic12">
+    <bf:authorizedAccessPoint>International relations</bf:authorizedAccessPoint>
+    <bf:label>International relations</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>International relations</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7187480topic13">
+    <bf:authorizedAccessPoint>Electronic books</bf:authorizedAccessPoint>
+    <bf:label>Electronic books</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel>Electronic books</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title rdf:about="http://www.base-uri.com/7187480title27">
+    <bf:titleValue>The Oxford companion to international relations</bf:titleValue>
+  </bf:Title>
+</rdf:RDF>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:relators="http://id.loc.gov/vocabulary/relators/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<bf:Instance rdf:about="http://vufind.carli.illinois.edu/vf-uiu/Record/uiu_7277073/Description"><bf:relatedTo rdf:resource="http://www.library.uiuc.edu/proxy/go.php?url=http://www.crcnetbase.com/isbn/9781482202090"/><bf:title>PgMPª exam challenge!</bf:title><rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/><rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/><bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>CRC Press</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Boca Raton, Fla. </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:copyrightDate>c2014.</bf:copyrightDate>
+      </bf:Provider>
+    </bf:publication><bf:modeOfIssuance>single unit</bf:modeOfIssuance><bf:titleStatement>PgMPª exam challenge!</bf:titleStatement><bf:formDesignation>electronic resource</bf:formDesignation><bf:providerStatement>Boca Raton, Fla. : CRC Press, c2014.</bf:providerStatement><bf:note>Description based on print version record.</bf:note><bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/851523248"/><bf:instanceOf rdf:resource="http://worldcat.org/entity/work/id/102838786"/> <bf:isbn>                                    <bf:Identifier>                                        <bf:identifierValue>9781482202090</bf:identifierValue>                                        <bf:identifierScheme>isbn</bf:identifierScheme>                                    </bf:Identifier>                                </bf:isbn><bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/></bf:Instance></rdf:RDF>

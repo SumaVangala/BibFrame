@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://bibframe.org/vocab/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">
+  <bf:Work rdf:about="http://www.base-uri.com/7277072">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+    <bf:authorizedAccessPoint>Pavone, Francesco S. Second harmonic generation imaging</bf:authorizedAccessPoint>
+    <bf:workTitle rdf:resource="http://www.base-uri.com/7277072title5"/>
+    <bf:contributor rdf:resource="http://www.base-uri.com/7277072person6"/>
+    <bf:contributor rdf:resource="http://www.base-uri.com/7277072person7"/>
+    <bf:contributor rdf:resource="http://www.base-uri.com/7277072organization8"/>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7277072topic11"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7277072topic12"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7277072topic13"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7277072topic14"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7277072topic15"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7277072topic16"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7277072topic17"/>
+    <bf:subject rdf:resource="http://www.base-uri.com/7277072topic18"/>
+    <bf:classificationNlm rdf:resource="http://nlm.example.org/classification/QH"/>
+    <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/QH212.F55"/>
+    <bf:classification rdf:resource="http://www.base-uri.com/7277072classification21"/>
+    <bf:series rdf:resource="http://www.base-uri.com/7277072work22"/>
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7277072.marcxml.xml"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">pavonefrancescoscampagnolapauljcrcnetbaseonlineservicesecondharmonicgenerationimagingengworktext</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work rdf:about="http://www.base-uri.com/7277072work22">
+    <bf:title>Series in cellular and clinical imaging ; 3</bf:title>
+    <bf:authorizedAccessPoint>Series in cellular and clinical imaging ; 3</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Instance rdf:about="http://www.base-uri.com/7277072instance26">
+    <bf:title>Second harmonic generation imaging (electronic bk.)</bf:title>
+    <bf:isbn10 rdf:resource="http://isbn.example.org/1439849153"/>
+    <bf:isbn13 rdf:resource="http://isbn.example.org/9781439849156"/>
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/>
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+    <bf:instanceTitle rdf:resource="http://www.base-uri.com/7277072title33"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>Taylor &amp; Francis</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Boca Raton </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:copyrightDate>c 2014.</bf:copyrightDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:soundContent>Unknown</bf:soundContent>
+    <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+    <bf:otherPhysicalFormat rdf:resource="http://www.base-uri.com/7277072instance37"/>
+    <bf:titleStatement>Second harmonic generation imaging</bf:titleStatement>
+    <bf:formDesignation>electronic resource</bf:formDesignation>
+    <bf:providerStatement>Boca Raton : Taylor &amp; Francis, c 2014.</bf:providerStatement>
+    <bf:note>"Second harmonic generation serves as the basis for a microscope imaging contrast mechanism that visualizes cell and tissue structure and function. This book provides a complete overview of the principles underlying this technique and its current applications, including use in molecular sensing. Covering practical issues related to instrumentation, the text examines which kinds of external labels to use. It also gives detailed reviews of the use of second harmonic generation in biomedical research, from imaging of cancer and skin disorders to self-assembled gels, holographic SHG imaging, and tissue engineering applications"--Provided by publisher.</bf:note>
+    <bf:note>Description based on print version record.</bf:note>
+    <bf:supplementaryContentNote>Includes bibliographical references and index.</bf:supplementaryContentNote>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/851656512"/>
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7277072.marcxml.xml"/>
+    <bf:instanceOf rdf:resource="http://www.base-uri.com/7277072"/>
+  </bf:Instance>
+  <bf:Instance rdf:about="http://www.base-uri.com/7277072instance37">
+    <bf:title>Second harmonic generation imaging.</bf:title>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>2013014914</bf:identifierValue>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/lccn"/>
+      </bf:Identifier>
+    </bf:systemNumber>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/840048799"/>
+    <bf:isbn>
+      <bf:Identifier>
+        <bf:identifierValue>9781439849149</bf:identifierValue>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/isbn"/>
+      </bf:Identifier>
+    </bf:isbn>
+  </bf:Instance>
+  <bf:Instance rdf:about="http://www.base-uri.com/7277072instance27">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/>
+    <bf:label>CRCnetBASE - Full text online</bf:label>
+    <bf:doi rdf:resource="http://www.library.uiuc.edu/proxy/go.php?url=http://www.crcnetbase.com/doi/book/10.1201/b15039"/>
+    <bf:instanceOf rdf:resource="http://www.base-uri.com/7277072"/>
+  </bf:Instance>
+  <bf:Annotation rdf:about="http://www.base-uri.com/7277072annotation25">
+    <bf:derivedFrom rdf:resource="http://www.base-uri.com/7277072.marcxml.xml"/>
+    <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/n$t"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/cus"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/uiu"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/>
+    <bf:generationProcess>DLC transform-tool:2015-03-16-T11:00:00</bf:generationProcess>
+    <bf:changeDate>2013-07-10T14:36</bf:changeDate>
+    <bf:annotates rdf:resource="http://www.base-uri.com/7277072"/>
+  </bf:Annotation>
+  <bf:Summary rdf:about="http://www.base-uri.com/7277072summary10">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Summary"/>
+    <bf:label>Summary</bf:label>
+    <bf:annotationAssertedBy rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+    <bf:annotationBody>"Second harmonic generation serves as the basis for a microscope imaging contrast mechanism that visualizes cell and tissue structure and function. This book provides a complete overview of the principles underlying this technique and its current applications, including use in molecular sensing. Covering practical issues related to instrumentation, the text examines which kinds of external labels to use. It also gives detailed reviews of the use of second harmonic generation in biomedical research, from imaging of cancer and skin disorders to self-assembled gels, holographic SHG imaging, and tissue engineering applications"--Provided by publisher.</bf:annotationBody>
+    <bf:summaryOf rdf:resource="http://www.base-uri.com/7277072"/>
+  </bf:Summary>
+  <bf:Title rdf:about="http://www.base-uri.com/7277072title5">
+    <bf:titleValue>Second harmonic generation imaging</bf:titleValue>
+  </bf:Title>
+  <bf:Person rdf:about="http://www.base-uri.com/7277072person6">
+    <bf:label>Pavone, Francesco S.</bf:label>
+    <bf:authorizedAccessPoint>Pavone, Francesco S.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Pavone, Francesco S.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://www.base-uri.com/7277072person7">
+    <bf:label>Campagnola, Paul J.</bf:label>
+    <bf:authorizedAccessPoint>Campagnola, Paul J.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Campagnola, Paul J.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Organization rdf:about="http://www.base-uri.com/7277072organization8">
+    <bf:label>CRCnetBASE (Online service)</bf:label>
+    <bf:authorizedAccessPoint>CRCnetBASE (Online service)</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>CRCnetBASE (Online service)</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Organization>
+  <bf:Topic rdf:about="http://www.base-uri.com/7277072topic11">
+    <bf:authorizedAccessPoint>Fluorescence microscopy</bf:authorizedAccessPoint>
+    <bf:label>Fluorescence microscopy</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Fluorescence microscopy</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7277072topic12">
+    <bf:authorizedAccessPoint>Second harmonic generation</bf:authorizedAccessPoint>
+    <bf:label>Second harmonic generation</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Second harmonic generation</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7277072topic13">
+    <bf:authorizedAccessPoint>Medical microscopy</bf:authorizedAccessPoint>
+    <bf:label>Medical microscopy</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Medical microscopy</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7277072topic14">
+    <bf:authorizedAccessPoint>Microscopy, Fluorescence, Multiphoton</bf:authorizedAccessPoint>
+    <bf:label>Microscopy, Fluorescence, Multiphoton</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Microscopy, Fluorescence, Multiphoton</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/mesh"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7277072topic15">
+    <bf:authorizedAccessPoint>Image Processing, Computer-Assisted</bf:authorizedAccessPoint>
+    <bf:label>Image Processing, Computer-Assisted</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Image Processing, Computer-Assisted</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/mesh"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7277072topic16">
+    <bf:authorizedAccessPoint>Microscopy, Confocal</bf:authorizedAccessPoint>
+    <bf:label>Microscopy, Confocal</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Microscopy, Confocal</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/mesh"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7277072topic17">
+    <bf:authorizedAccessPoint>Photons--diagnostic use</bf:authorizedAccessPoint>
+    <bf:label>Photons--diagnostic use</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <madsrdf:authoritativeLabel>Photons--diagnostic use</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/mesh"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://www.base-uri.com/7277072topic18">
+    <bf:authorizedAccessPoint>Electronic books</bf:authorizedAccessPoint>
+    <bf:label>Electronic books</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel>Electronic books</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Classification rdf:about="http://www.base-uri.com/7277072classification21">
+    <bf:classificationScheme rdf:resource="http://id.loc.gov/authorities/classSchemes/ddc"/>
+    <bf:classificationNumber>616.07/58</bf:classificationNumber>
+    <bf:label>616.07/58</bf:label>
+    <bf:classificationEdition>full</bf:classificationEdition>
+    <bf:classificationEdition>23</bf:classificationEdition>
+  </bf:Classification>
+  <bf:Title rdf:about="http://www.base-uri.com/7277072title33">
+    <bf:titleValue>Second harmonic generation imaging</bf:titleValue>
+  </bf:Title>
+</rdf:RDF>

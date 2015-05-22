@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:relators="http://id.loc.gov/vocabulary/relators/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:bf="http://bibframe.org/vocab/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<bf:Instance rdf:about="http://vufind.carli.illinois.edu/vf-uiu/Record/uiu_7277038/Description"><bf:relatedTo rdf:resource="http://www.library.uiuc.edu/proxy/go.php?url=http://www.crcnetbase.com/isbn/9781466557192"/><bf:title>Applying analytics</bf:title><rdf:type rdf:resource="http://bibframe.org/vocab/Electronic"/><rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/><bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>Taylor &amp; Francis</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Boca Raton </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:providerDate>2014</bf:providerDate>
+      </bf:Provider>
+    </bf:publication><bf:modeOfIssuance>single unit</bf:modeOfIssuance><bf:titleStatement>Applying analytics a practical introduction</bf:titleStatement><bf:formDesignation>electronic resource :</bf:formDesignation><bf:providerStatement>Boca Raton : Taylor &amp; Francis, 2014.</bf:providerStatement><bf:note>Description based on print version record.</bf:note><bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/847526833"/><bf:instanceOf rdf:resource="http://worldcat.org/entity/work/id/1783880613"/> <bf:isbn>                                    <bf:Identifier>                                        <bf:identifierValue>9781466557192</bf:identifierValue>                                        <bf:identifierScheme>isbn</bf:identifierScheme>                                    </bf:Identifier>                                </bf:isbn><bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/></bf:Instance></rdf:RDF>
